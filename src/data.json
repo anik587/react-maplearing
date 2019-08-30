@@ -1,0 +1,68 @@
+{
+  "status": {
+    "code": 200,
+    "message": "Success"
+  },
+  "result": [
+    {
+      "trackingId": "357169081639215T1567103461001",
+      "userName": "Harry Potter",
+      "distance": 117.677,
+      "timestamp": 1567140482395,
+      "startPoint": {
+        "type": "Point",
+        "coordinates": [28.7041, 77.0938818],
+        "pointType": "START",
+        "idleTime": 0,
+        "timestmp": 1567140481446
+      },
+      "endPoint": {
+        "type": "Point",
+        "coordinates": [29.15712811, 77.03517546],
+        "pointType": "NORMAL",
+        "idleTime": 0,
+        "timestmp": 1567154451167
+      }
+    },
+    {
+      "trackingId": "866772041148351T1567103461001",
+      "userName": "Udit Agrawal",
+      "distance": 20.135,
+      "timestamp": 1567145371381,
+      "startPoint": {
+        "type": "Point",
+        "coordinates": [28.4911778, 77.080109],
+        "pointType": "START",
+        "idleTime": 0,
+        "timestmp": 1567145370450
+      },
+      "endPoint": {
+        "type": "Point",
+        "coordinates": [28.4910256, 77.0800274],
+        "pointType": "NORMAL",
+        "idleTime": 0,
+        "timestmp": 1567154076799
+      }
+    },
+    {
+      "trackingId": "867194033567028T1567103461001",
+      "userName": "Gaurav Singhal",
+      "distance": 48.527,
+      "timestamp": 1567145759923,
+      "startPoint": {
+        "type": "Point",
+        "coordinates": [28.494946, 77.1824892],
+        "pointType": "START",
+        "idleTime": 0,
+        "timestmp": 1567139185924
+      },
+      "endPoint": {
+        "type": "Point",
+        "coordinates": [28.4911717, 77.0800426],
+        "pointType": "NORMAL",
+        "idleTime": 0,
+        "timestmp": 1567154228014
+      }
+    }
+  ]
+}
